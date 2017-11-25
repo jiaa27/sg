@@ -1,0 +1,33 @@
+body{
+	/*padding-top: 50px;*/
+}
+.thumbnail img{
+	width: 100%;
+}
+.thumbnail#produk{
+	padding-top: 20px;
+}
+.thumbnail#produk img{
+	width: 140px;
+	height: 140px;
+}
+.thumbnail#produk.produk{
+	height: 350px;
+}
+.thumbnail#produk:hover{
+	border: 1px solid #007999;
+}
+.shadow{
+	-webkit-box-shadow: 0px 5px 16px -3px rgba(0,0,0,0.66);
+	-moz-box-shadow: 0px 5px 16px -3px rgba(0,0,0,0.66);
+	box-shadow: 0px 5px 16px -3px rgba(0,0,0,0.66);
+}
+/*.img-thumb{
+	width:auto;
+	height:200px;
+}*/
+
+.img.details{
+	width: 90%;
+	margin: 15px auto;
+}
